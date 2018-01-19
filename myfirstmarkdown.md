@@ -7,6 +7,6 @@ You can even [link to LASCON's program!](http://sisne.org/lascon-vii/program/?la
 https://daringfireball.net/projects/markdown/ - automatic!
 [Official Markdown website](https://daringfireball.net/projects/markdown/)
 
-> emacs outshines all other editing software in approximately the same 
+ emacs outshines all other editing software in approximately the same 
  way that the noonday sun does the stars. It is not just bigger and 
-> brighter; it simply makes everything else vanish.
+ brighter; it simply makes everything else vanish.
