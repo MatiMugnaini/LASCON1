@@ -3,3 +3,6 @@ You can even [link to LASCON's program!](http://sisne.org/lascon-vii/program/?la
 
 
 ![Markdown Logo](Markdown-mark.svg)
+
+https://daringfireball.net/projects/markdown/ - automatic!
+[Official Markdown website](https://daringfireball.net/projects/markdown/)
