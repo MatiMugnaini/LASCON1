@@ -10,3 +10,6 @@ https://daringfireball.net/projects/markdown/ - automatic!
  >emacs outshines all other editing software in approximately the same 
  >way that the noonday sun does the stars. It is not just bigger and 
  >brighter; it simply makes everything else vanish.
+
+In [Python 3](https://docs.python.org/3/tutorial/index.html) tutorial
+the first Python expression is `the_world_is_flat = True`.  
